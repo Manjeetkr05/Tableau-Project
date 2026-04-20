@@ -40,15 +40,6 @@ Build an interactive dashboard to help a retail business quickly understand sale
 
 ---
 
-## 📷 Dashboard Preview
-*(Add your dashboard screenshot here)*
-
----
-
-## 🔗 Live Dashboard
-*(Add your Tableau Public link here)*
-
----
 
 ## 🎥 Project Demo (YouTube)
 [![Watch the video](https://img.youtube.com/vi/Z0sUAknCT1s/0.jpg)](https://youtu.be/Z0sUAknCT1s)
